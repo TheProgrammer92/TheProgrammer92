@@ -1,14 +1,15 @@
 # JOSUE NGUIMATIO  https://josuenguimatio.com
   
 ## Stack Technique  
+
+
   
-|Intégration  |Frontend     Design    |Backend  |Serveur  |Cloud        |Déploiement   |     
-|--           |--           Figma     |--       |--       |--           |--            |  
-|HTML         |JavaScript   Photoshop |PHP      |Debian   |Heroku       |Ansistrano    |  
-|CSS          |jQuery                 |MySQL    |Ubuntu                 |Github Actions|  
-|Bootstrap    |Nuxtjs                 |Laravel                         |CircleCI      |  
-|Sass         |Webpack                |Django                           |GitlabCI      |  
-|Blade        |vue.js                                        
+|Intégration |Design      |Frontend          |Backend    |Serveur    |Cloud        |Déploiement   |     
+|--          |--          |--                |--         |--         |--           |--            |  
+|HTML        |Figma       |JavaScript        |PHP        |Debian     |Heroku       |Docker   
+|Bootstrap   |                |Nuxtjs            |Laravel    |Ubuntu                                |  
+|Sass        |                |Webpack           |Django     |ArchLinux                             | 
+|Blade       |                |vue.js 
   
 ## Missions courantes  
   
